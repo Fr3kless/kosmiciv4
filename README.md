@@ -1,3 +1,3 @@
 DL: https://megawrzuta.pl/yc9loz5b <br>
 leak by ogfr3kless <br>
-<b>jak chcecie pomocy z baza to zapraszam dm discord: 1fr3kless</b>
+<b>poradnik do bazy danych: https://www.youtube.com/watch?v=j3z8_7fIGEM (POSTGRESQL)</b>
